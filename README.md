@@ -28,7 +28,7 @@ The game generates a sequence of colors that the player must remember and repeat
 
 ## 📸 Screenshot
 
-![Game Screenshot](screenshots/game.png)
+![Simon Says Game](screenshot/game.png)
 
 ## 📂 Project Structure
 
