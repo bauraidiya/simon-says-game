@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+.countainer{
+    height: 350px;
+    width: 350px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    margin:auto;
+}
+.divs{
+    height: 150px;
+    width: 150px;
+    border: 4px solid black;
+    border-radius: 20px;
+}
+.red{
+    background-color: palevioletred;
+}
+.skyblue{
+    background-color:aqua;
+}
+.yellow{
+    background-color: orange;
+}
+.purple{
+    background-color: deepskyblue;
+}
+.flash{
+    background-color: white;
+}
+.user-flash{
+    background-color: chartreuse;
+}
