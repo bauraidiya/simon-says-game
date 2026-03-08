@@ -32,7 +32,7 @@ function levelup(){
     level++;
     h3.innerText=`Level ${level}`;
     //random color
-    let randomInd=Math.floor(Math.random()*3);
+    let randomInd = Math.floor(Math.random() * btns.length);
     let randomCol=btns[randomInd];
     let randombtn=document.querySelector(`.${randomCol}`);
     gameSequence.push(randomCol);
